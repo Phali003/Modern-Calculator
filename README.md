@@ -21,7 +21,7 @@ Check out the live demo [here](https://phali003.github.io/Modern-Calculator/).
 ![Light Mode](lightMode.png)
 
 ### Dark Mode
-![Dark Mode](darkMode.png)
+![Dark Mode](nightMode.png)
 
 ## How to Use
 
